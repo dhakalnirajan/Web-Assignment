@@ -1,3 +1,20 @@
 # Web-Assignment
 
 Web Technology - I Assignment Collection Repository From All Students
+![services-left](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/75a3b364-150f-4028-9031-d4875d0c491d)
+![s4](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/11f27b13-bc8e-4088-90a9-0a89034209c2)
+![s3](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/3e51a81b-cef7-4036-b085-145bcae779dd)
+![s2](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/5943a735-72c3-4829-a1d3-18b8823c0705)
+![s1](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/3934efc1-0cc2-46f2-9094-35b1044af1e7)
+![photo3](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/7e72141b-3d37-403e-b802-71266dabba00)
+![Photo1](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/3487e091-cb83-458c-a866-fc3488d43e08)
+![photo](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/48f7bd78-b380-40be-9d5d-5f21bede62d9)
+![phone](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/9b132df2-e6d1-4af5-be3e-0307cec420d2)
+![logo](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/e0e748c3-063b-4795-9de0-afc460a0b2f6)
+![hello3](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/edb162fb-7c4e-4054-ac12-9960ba4eda4f)
+![hello2](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/5080842c-513c-459c-9b6e-cfd2adfd2104)
+![hello1](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/f78120c2-71de-436d-bfea-8b548797b9db)
+![hello](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/394798a3-93d9-4044-aec3-3b86d7ac6105)
+![hand shake](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/4b596e40-ab48-40e9-bc08-771c22669aed)
+![banner-right](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/7cbf1f20-9118-4b94-a031-fad5f1628671)
+![Background](https://github.com/RegShadbhav041/Web-Assignment/assets/138293427/b3cabeae-8372-44c5-8534-43d45549624d)

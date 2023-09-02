@@ -1,0 +1,64 @@
+body {
+    background-image: url("img1.png");        
+
+}
+div{
+padding-top: 640px;
+height: auto;
+background:url( 'image.png');
+background-repeat: no-repeat;
+background-position: right;}
+a {
+
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding-left: 0px;
+    padding-top: 4px;
+    padding-right: 40px;
+    padding-bottom: 4px;
+}
+
+a:active {
+    color: rgb(26, 157, 209);
+
+}
+
+a:hover {
+    background-color: rgb(222, 220, 225);
+    color: rgb(97, 32, 195);
+    ;
+
+}
+
+.phone {
+    font-size: large;
+    color: white;
+    border-radius: 12px;
+    border: 2px solid white;
+
+
+    border-color: white;
+    text-align: center;
+}
+
+.emoji {
+
+
+    font-size: 30px;
+}
+
+body {
+
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+span {
+    color: white;
+    font-size: 20PX;
+    padding-left: 40PX;
+    padding-right: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,153 @@
+nav{
+    display: flex;
+    align-items: center;
+}
+.div2{
+    background: linear-gradient(to right, rgb(93, 20, 176) 0%, rgb(208, 53, 250) 100%);
+    padding: 15px;
+    margin-top: 5px;
+} 
+#id1{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 30px;
+}
+select{
+    background: transparent;
+    border: none;
+    color: white;
+    margin-left: -15px;
+}
+.s1{
+    display: flex;
+}
+.img1{
+    margin-left: 575px;
+    width: 50%;
+    height: 95%;
+}
+.div3{
+    width: 700px;
+    border: 2px solid whitesmoke;
+    background-color: rgb(245, 245, 245,0.5);
+    width: 100%;
+    height: 600px;
+    margin-left: 75px;
+    margin-right: -700px;
+    margin-top: 150px;
+    border-radius: 20px;
+    position: relative;
+}
+.div4{
+    margin-left: 40px;
+}
+h1{
+    margin-top: 35px;
+    color: rgb(172, 23, 252);
+}
+.span1{
+    color: rgb(105, 11, 213);
+}
+.span2{
+    color: rgb(208, 53, 250);
+}
+.p1{
+    color: grey;
+    font-size: 18px;
+}
+.button1{
+    border: 2px solid black;
+    background-color: rgb(96, 50, 233);
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 30px;
+}
+.button2{
+    border: 2px solid black;
+    background-color: rgb(211, 5, 197);
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    border-radius: 30px;
+}
+.div5{
+    margin-top: 60px;
+}
+.s2{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+.div6{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.div8{
+    margin-left: 75px;
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.div9{
+    margin-left: 75px;
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.div7{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.div10{
+    margin-left: 75px;
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.div11{
+    margin-left: 75px;
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.p3{
+    margin-left: 100px;
+    font-size: 35px;
+}
+.img3{
+    border-radius: 100%;
+}
+.img4{
+    border-radius: 100%;
+}
+.img5{
+    border-radius: 100%;
+}
+.img6{
+    border-radius: 100%;
+}
+.div13{
+    width: 70%;
+}
+.span3{
+    color:purple;
+}
+.span4{
+    color: blueviolet;
+}

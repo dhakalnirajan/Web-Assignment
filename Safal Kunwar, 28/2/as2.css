@@ -1,0 +1,92 @@
+
+body {
+    background-image: url("img2.jpg");
+   background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+
+
+
+}
+
+.tale {
+    background-color: rgb(112, 28, 215);
+    padding: 50px;
+    padding-inline: 200px;
+    color: whitesmoke;
+    text-align: left;
+
+}
+
+a {
+    text-align: right;
+    padding-bottom: 40px;
+    color: whites;
+    background-color: rgb(112, 28, 215);
+    padding: 50px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.middletopic {
+    font-size: 60px;
+    border: 0px solid rgb(228, 107, 107);
+    margin: auto;
+    padding-left: 40px;
+    height: 65vh;
+    width: 75vh;
+    border-radius: 15px;
+    background-color: rgb(236, 235, 235);
+    position: absolute;
+    left: 12vh;
+    top: 20vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', ' sans-serif';
+    opacity: 85%;
+    .seo {
+        padding-left: 0px;
+        font-size: large;
+        color: rgb(172, 56, 211);
+    }
+
+    .dive {
+        color: black;
+    }
+
+    .into {
+        color: rgb(157, 70, 238);
+    }
+
+    .with {
+        color: rgb(226, 60, 235);
+    }
+
+    .check {
+        background-color: hwb(270 5% 16%);
+        background-image: url("imag.png");
+        border-radius: 12px;
+        color: white;
+        padding: 8px;
+        display: inline;
+
+
+    }
+}
+
+.we {
+
+    font-size: 30px;
+    border: 0px solid gray;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', ' sans-serif';
+    padding-top: 580px;
+    padding-left: 990px;
+
+
+    .different {
+        color: rgb(196, 112, 244);
+    }
+
+    .features {
+        color: rgb(243, 110, 245);
+    }
+}   

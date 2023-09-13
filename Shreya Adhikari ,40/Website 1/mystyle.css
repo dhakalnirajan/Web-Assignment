@@ -1,0 +1,279 @@
+.photo {
+    background: url(./images/IMG_8955.JPG) no-repeat;
+    background-size: 100% 100%;
+    height: 50vw;
+}
+.a{
+    float: left;
+    width: 45%;
+    padding: 20px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a:link, a:visited{
+    background-color: transparent;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+}
+a:hover, a:active {
+    background-color: transparent;
+    color: green;
+}
+h1{
+    font-size: 30px;
+    color: white;
+}
+.phone img {
+    width: 50px;
+    border-radius: 50%;
+}
+.phone p{
+    background-color: transparent;
+    color: white;
+    border: 3px solid white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 10px;
+    border-radius: 25px;
+}
+.phone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: right;
+}
+.b img{
+    width: 100px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.b span{
+    background-color: white;
+    color: black;
+    border: 3px solid white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 10px;
+    border-radius: 40px;
+}
+.b2{
+    background-color: white;
+    color: green;
+    border: 3px solid white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    margin-left: 10px;
+    border-radius: 40px;
+}
+.b3{
+    background-color: blue;
+    color: white;
+    border: 3px solid blue;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 10px;
+    border-radius: 40px;
+    width: 140px;
+}
+div .b{
+    width: 650px;
+    padding: 60px;
+    margin-top: 120px;
+}
+.c img{
+    width: 500px;
+    border-radius: 70%;
+    vertical-align: middle;
+}
+div .c{
+    width: 650px;
+    padding: 60px;
+    margin-top: 150px;
+    margin-left: 130px;
+}
+
+
+
+
+.main{
+    width: 90%;
+    padding: 10px;
+     display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.leftsde,.rightside{
+    height: 50%;
+    width:100%;
+}
+.leftside img{
+    width: 75%;
+    height:325px;
+    border-radius:20px;
+    vertical-align:left;
+    margin: 50px;
+
+}
+
+
+
+.rightside img{
+    width: 150px;
+    border-radius: 10%;
+
+}
+.rightside {
+    display:grid;
+    grid-template-rows: 0.6fr 1fr;
+    justify-content: space-between;
+    align-items: center;
+    float: right;
+    width: 50%
+    height: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.rightside1{
+     text-align: center;
+     font-size: 30px;
+     color: white;
+     background-color: seagreen;
+     margin-top: 30px;
+}
+
+.e1{
+    font-size: 15px;
+}
+
+.xyz{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height:30vw;
+    text-align: center;
+}
+.xyz1 table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    height: 200px;
+    width: 90%;
+    margin: 70px 40px 30px 130px;
+}
+
+table *{
+    padding: 10px;
+}
+
+table tr:nth-child(2n+3){
+    background-color: aliceblue;
+}
+
+
+.xyz1{
+    float: left;
+    width: 80%;
+    padding: 20px;
+}
+.g,.f{
+    width: 100%;
+}
+.g tr{
+    height: 50px;
+}
+.f tr{
+    height: 50px;
+}
+.g{
+    margin:100px;
+    margin-left: 80px;
+}
+.f{
+    margin-top: 150px;
+    margin-right: 80px;
+    margin-bottom: 150px;
+}
+.g,.f{
+    background-color: lightgrey;
+    border: 3px solid white;
+      border-collapse: collapse;
+}
+.g1{
+    color: green;
+    text-align: center;
+}
+.g th{
+    font-size: 30px;
+}
+.f1{
+    font-size: 70px;
+}
+.f2{
+    color: green;
+}
+
+
+
+
+.abc{
+    text-align: center;
+    margin-bottom: 40px; 
+    
+}
+.abc1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.abc1 img{
+    height: 40%;
+    width: 90%;
+    margin-left: 190px;
+    margin-top: 60px;
+}
+
+.i img{
+    width: 150px;
+    border-radius: 80%;
+    float: right;
+}
+.imx{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    background-color: seagreen;
+    width: 90%;
+    height: 40%;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 35px;
+}
+.imx span{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    float: right;
+}
+
+
+.i{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: right;
+}
